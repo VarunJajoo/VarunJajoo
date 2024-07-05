@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0e/57/b6/0e57b6b822b3003e5304b09aeeb81446.png)](https://github.com/VarunJajoo)
+[![MasterHead](https://i.pinimg.com/originals/6c/3c/13/6c3c1365542b2436f655a7b7e0d6dd6b.jpg)](https://github.com/VarunJajoo)
 <h1 align="center">Hi 👋, I'm Varun Jajoo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
